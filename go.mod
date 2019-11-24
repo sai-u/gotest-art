@@ -4,5 +4,4 @@ go 1.12
 
 require (
 	rsc.io/quote v3.1.0+incompatible
-	gitlab.com/saiu/gotest-art Latest
 )
